@@ -1,0 +1,52 @@
+/* .countlabel */
+/* {     display:block;
+    text-align:center;
+    /* font-size:50px; */
+.name
+{
+    border-radius: 2px;
+    padding-left: 24px;
+    padding-right:24px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-color: blue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.regn
+{
+    border:2px solid blue;
+    text-align:center;
+    background-color: blue;
+    color:white;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:24px;
+
+}
+.body
+{
+    background-color:lightskyblue;
+    border-style:solid;
+    padding-left:8px;
+    padding-bottom:8px;
+    padding-right:8px;
+}
+.date
+{
+    border-radius:3px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:16px;
+    padding-right:16px;
+    background-color:white;
+}
+
+.password
+{
+    padding-left:24px;
+    padding-right:24px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    border-color: solid blue;
+
+}
